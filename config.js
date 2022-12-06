@@ -18,8 +18,8 @@ const CONFIG = {
   title: 'Bento',
 
 	// Theme
-	theme: 'bento',
-	imageBackground: false,
+	theme: 'latte-macchiato',
+	imageBackground: true,
   imageUrl: './assets/background.jpg', // Set custom background image URL. If the page is served insecurely, you may have issues loading images from pages over https.
 
 	// Greetings
@@ -70,7 +70,7 @@ const CONFIG = {
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://mail.google.com/mail/u/1/',
 		},
 		{
 			id: '3',

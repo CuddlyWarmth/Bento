@@ -20,7 +20,7 @@ const CONFIG = {
 	// Theme
 	theme: 'latte-macchiato',
 	imageBackground: true,
-  imageUrl: './assets/background.jpg', // Set custom background image URL. If the page is served insecurely, you may have issues loading images from pages over https.
+  imageUrl: './assets/under_the_night_sky_by_bisbiswas_ddfk819-fullview.jpg', // Set custom background image URL. If the page is served insecurely, you may have issues loading images from pages over https.
 
 	// Greetings
 	greetingMorning: 'Good morning!',
@@ -144,24 +144,24 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'monitor',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'NOS',
+					link: 'https://nos.nl/',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Tweakers',
+					link: 'https://tweakers.net/',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Kotaku',
+					link: 'https://kotaku.com/',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Nothing yet',
+					link: '',
 				},
 			],
 		},
@@ -174,8 +174,8 @@ const CONFIG = {
 					link: 'https://www.linkedin.com',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Obsidian Help Docs',
+					link: 'https://help.obsidian.md/Obsidian/Index',
 				},
 				{
 					name: 'Trello',

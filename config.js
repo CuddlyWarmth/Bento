@@ -178,12 +178,12 @@ const CONFIG = {
 					link: 'https://help.obsidian.md/Obsidian/Index',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'N.A.',
+					link: '',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'N.A.',
+					link: '',
 				},
 			],
 		},

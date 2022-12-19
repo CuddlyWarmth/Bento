@@ -88,7 +88,7 @@ const CONFIG = {
 			id: '5',
 			name: 'Netflix',
 			icon: 'film',
-			link: 'netflix.com/',
+			link: 'https://netflix.com/',
 		},
 		{
 			id: '6',

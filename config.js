@@ -86,9 +86,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'Netflix',
+			icon: 'film',
+			link: 'netflix.com/',
 		},
 		{
 			id: '6',
@@ -160,8 +160,8 @@ const CONFIG = {
 					link: 'https://kotaku.com/',
 				},
 				{
-					name: 'Nothing yet',
-					link: '',
+					name: 'Reddit',
+					link: 'https://reddit.com/',
 				},
 			],
 		},

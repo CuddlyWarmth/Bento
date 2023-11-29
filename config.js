@@ -178,8 +178,8 @@ const CONFIG = {
 					link: 'https://help.obsidian.md/Obsidian/Index',
 				},
 				{
-					name: 'N.A.',
-					link: '',
+					name: 'Bitwarden',
+					link: 'https://vault.bitwarden.com/#/vault',
 				},
 				{
 					name: 'N.A.',
